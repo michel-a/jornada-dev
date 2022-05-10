@@ -61,8 +61,12 @@
     padding-top: 3.5rem;
 }
 
+.left-title, .right-title {
+    color: orange;
+}
+
 .left-title {
-    color: #eeeeee;
+    /* color: #eeeeee; */
     font-size: 22px;
 }
 
@@ -97,13 +101,12 @@
 
 .right-title {
     margin-bottom: 10px;
-    color: #eeeeee;
+    /* color: #fff; */
     font-size: 20px;
 }
 
 .gap {
-    padding: 0 2rem 2rem 2rem;
-    /* padding-bottom: 2rem; */
+    padding-bottom: 2rem;
 }
 .about-me-contents {
     font-size: 18px;
